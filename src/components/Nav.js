@@ -35,7 +35,7 @@ const Nav = () => {
       <Logo>
         <img 
           alt='Disney Plus Logo'
-          src='/images/logo.svg'
+          src='./images/logo.svg'
           onClick={() => (window.location.href = "/")}
         />
       </Logo>
